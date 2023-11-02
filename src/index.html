@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guia do Brasileirão</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="cabecalho">
+        <h1 class="textoPrincipal">Guia do Brasileirão</h1>
+    </header>
+    <ul class="listaEscudos">
+        <li> <img class="escudoCabecalho" src="imagens/atlgoianiense.png" alt="logo do clube atlgoianiense"></li>
+        <li> <img class="escudoCabecalho" src="imagens/atlmineiro.png" alt="logo do clube atlmineiro"></li>
+        <li> <img class="escudoCabecalho" src="imagens/atlparanaense.png" alt="logo do clube atlparanaense"></li>
+        <li> <img class="escudoCabecalho" src="imagens/bahia.png" alt="logo do clube bahia"></li>
+        <li> <img class="escudoCabecalho" src="imagens/botafogo.png" alt="logo do clube botafogo"></li>
+        <li> <img class="escudoCabecalho" src="imagens/bragantino.png" alt="logo do clube bragantino"></li>
+        <li> <img class="escudoCabecalho" src="imagens/ceara.png" alt="logo do clube ceara"></li>
+        <li> <img class="escudoCabecalho" src="imagens/corinthians.png" alt="logo do clube atlgoianiense"></li>
+        <li> <img class="escudoCabecalho" src="imagens/coritiba.png" alt="logo do clube coritiba"></li>
+        <li> <img class="escudoCabecalho" src="imagens/flamengo.png" alt="logo do clube flamengo"></li>
+        <li> <img class="escudoCabecalho" src="imagens/fluminense.png" alt="logo do clube fluminense"></li>
+        <li> <img class="escudoCabecalho" src="imagens/fortaleza.png" alt="logo do clube fortaleza"></li>
+        <li> <img class="escudoCabecalho" src="imagens/goias.png" alt="logo do clube goias"></li>
+        <li> <img class="escudoCabecalho" src="imagens/gremio.png" alt="logo do clube gremio"></li>
+        <li> <img class="escudoCabecalho" src="imagens/internacional.png" alt="logo do internacional"></li>
+        <li> <img class="escudoCabecalho" src="imagens/palmeiras.png" alt="logo do clube palmeiras"></li>
+        <li> <img class="escudoCabecalho" src="imagens/santos.png" alt="logo do clube santos"></li>
+        <li> <img class="escudoCabecalho" src="imagens/saopaulo.png" alt="logo do clube sao paulo"></li>
+        <li> <img class="escudoCabecalho" src="imagens/sport.png" alt="logo do clube sport"></li>
+        <li> <img class="escudoCabecalho" src="imagens/vasco.png" alt="logo do clube vasco"></li>
+    </ul>
+    <select id="clubes">
+        <option value="FEC">Fortaleza EC</option>
+        <option value="CAP">Atlético PR</option>
+        <option value="CTB">Coritiba PR</option>
+        <option value="INT">Internacional Porto Alegre</option>
+        <option value="SPT">Sport Recife</option>
+        <option value="CEA">Ceará SC</option>
+        <option value="FLA">Flamengo RJ</option>
+        <option value="CAM">Atlético MG</option>
+        <option value="SAN">Santos SP</option>
+        <option value="RBB">RB Bragantino</option>
+        <option value="PAL">Palmeiras SP</option>
+        <option value="VAS">CR Vasco da Gama</option>
+        <option value="GRE">Grêmio RS</option>
+        <option value="FLU">Fluminense RJ</option>
+        <option value="BOT">Botafogo RJ</option>
+        <option value="COR">Corinthians SP</option>
+        <option value="GOI">Goiás EC</option>
+        <option value="BAI">EC Bahia</option>
+        <option value="ACG">Atlético GO</option>
+        <option value="SAO">São Paulo FC</option>
+
+    </select>
+    <input id="botaoSelecionar" class="botao" type="button" value="Selecionar" onclick="selecionarClube()">
+
+    <div id="root"></div>
+    <footer class="rodape">
+        
+    </footer>
+
+    <script type="module" src="./main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,148 @@
+{
+    "name": "Campeonato Brasileiro Série A 2020",
+    "clubs": [
+        {
+            "name": "Fortaleza EC",
+            "code": "FEC",
+            "country": "Ceará",
+            "history":"O Fortaleza Esporte Clube é um clube de futebol brasileiro sediado em Fortaleza, Ceará. Fundado em 1918, o clube tem uma rica história e é conhecido por sua base de fãs apaixonados e participações em várias edições do Campeonato Brasileiro.",
+            "logo": "./imagens/fortaleza.PNG"
+        },
+        {
+            "name": "Atlético PR",
+            "code": "CAP",
+            "country": "Paraná",
+            "history":"O Clube Atlético Paranaense, fundado em 1924, é um dos principais times de futebol do Paraná, Brasil. Conhecido como Furacão, o clube conquistou títulos nacionais e internacionais, incluindo a Copa Sul-Americana. Sua sede é em Curitiba, onde mantém uma base de fãs apaixonados.",
+            "logo": "./imagens/atlparanaense.PNG"
+        },
+        {
+            "name": "Coritiba PR",
+            "code": "CTB",
+            "country": "Paraná",
+            "history":"O Coritiba Foot Ball Club, fundado em 1909, é um dos clubes mais antigos do futebol brasileiro. Com sede em Curitiba, Paraná, o Coritiba tem uma história de sucesso, com títulos estaduais e nacionais, incluindo o Campeonato Brasileiro. O clube é conhecido como Coxa e tem uma base de fãs dedicada.",
+            "logo":"./imagens/coritiba.PNG"
+        },
+        {
+            "name": "Internacional Porto Alegre",
+            "code": "INT",
+            "country": "Rio Grande do Sul",
+            "history": "O Sport Club Internacional, fundado em 1909, é um dos principais clubes de futebol do Brasil, com sede em Porto Alegre, Rio Grande do Sul. O Inter, como é carinhosamente chamado, tem uma história rica, incluindo conquistas nacionais e internacionais, destacando-se na Taça Libertadores. Sua torcida é conhecida como Colorado e é uma das mais apaixonadas do país.",
+            "logo":"./imagens/internacional.PNG"
+        },
+        {
+            "name": "Sport Recife",
+            "code": "SPT",
+            "country": "Pernambuco",
+            "history": "O Sport Club do Recife, fundado em 1905, é um clube de futebol tradicional com sede em Recife, Pernambuco. O Sport, conhecido como Leão da Ilha, tem uma história de conquistas estaduais e nacionais, competindo em várias edições da Série A do Campeonato Brasileiro. É um dos times mais queridos do Nordeste do Brasil.",
+            "logo":"./imagens/sport.PNG"
+        },
+        {
+            "name": "Ceára SC",
+            "code": "CEA",
+            "country": "Ceará",
+            "history":"O Ceará Sporting Club, fundado em 1914, é um time de futebol baseado em Fortaleza, Ceará. Conhecido como Vozão, o clube possui uma história rica e uma base de torcedores apaixonados. O Ceará conquistou títulos estaduais e nacionais, competindo na Série A do Campeonato Brasileiro.",
+            "logo":"./imagens/ceara.PNG"
+
+        },
+        {
+            "name": "Flamengo RJ",
+            "code": "FLA",
+            "country": "Rio de Janeiro",
+            "history":"O Clube de Regatas do Flamengo, fundado em 1895, é um dos times mais populares e vitoriosos do Brasil. Conhecido como Mengão, o clube tem uma história rica, conquistando diversos títulos estaduais e nacionais, incluindo a Copa Libertadores. Sua torcida é uma das maiores e mais apaixonadas do mundo.",
+            "logo":"./imagens/flamengo.PNG"
+
+        },
+        {
+            "name": "Atlético MG",
+            "code": "CAM",
+            "country": "Minas Gerais",
+            "history":"O Clube Atlético Mineiro, fundado em 1908, é uma equipe de futebol de destaque com sede em Belo Horizonte, Minas Gerais. O Atlético, apelidado de Galo, possui uma história de sucesso, conquistando títulos estaduais e nacionais, incluindo a Copa Libertadores. Sua torcida é fervorosa e leal.",
+            "logo":"./imagens/atlmineiro.PNG"
+
+        },
+        {
+            "name": "Santos SP",
+            "code": "SAN",
+            "country": "São Paulo",
+            "history":"O Santos Futebol Clube, fundado em 1912, é um renomado clube de futebol sediado em Santos, São Paulo. Conhecido como Peixe, o clube possui uma história rica e é reconhecido por suas conquistas nacionais e internacionais, incluindo a Copa Libertadores. Sua torcida é fiel e apaixonada.",
+            "logo":"./imagens/santos.PNG"
+        },
+        {
+            "name": "RB Bragantino",
+            "code": "RBB",
+            "country": "São Paulo",
+            "history":"O Red Bull Bragantino, fundado em 1928 como Clube Atlético Bragantino e posteriormente adquirido pelo Red Bull, é um time de futebol com sede em Bragança Paulista, São Paulo. O clube, conhecido como Massa Bruta, compete na elite do futebol brasileiro e tem uma base de fãs crescente.",
+            "logo":"./imagens/bragantino.PNG"
+        },
+        {
+            "name": "Palmeiras SP",
+            "code": "PAL",
+            "country": "São Paulo",
+            "history":"A Sociedade Esportiva Palmeiras, fundada em 1914, é um dos clubes mais tradicionais do futebol brasileiro. Conhecido como Verdão, o Palmeiras possui uma história repleta de títulos estaduais e nacionais, incluindo a Copa Libertadores. Sua torcida é uma das mais apaixonadas do Brasil.",
+            "logo":"./imagens/palmeiras.PNG"
+        },
+        {
+            "name": "CR Vasco da Gama",
+            "code": "VAS",
+            "country": "Rio de Janeiro",
+            "history":"O Club de Regatas Vasco da Gama, fundado em 1898, é um clube de futebol icônico com sede no Rio de Janeiro, Brasil. Conhecido como Vasco, o clube tem uma história rica, incluindo títulos estaduais e nacionais, bem como participações na Copa Libertadores. Sua torcida é conhecida como vascaína e é uma das mais fiéis do país.",
+            "logo":"./imagens/vasco.PNG"
+        },
+        {
+            "name": "Grêmio RS",
+            "code": "GRE",
+            "country": "Rio Grande do Sul",
+            "history":"O Grêmio Foot-Ball Porto Alegrense, fundado em 1903, é um dos principais clubes de futebol do Brasil, com sede em Porto Alegre, Rio Grande do Sul. Conhecido como Tricolor Gaúcho, o Grêmio tem uma história de sucesso, incluindo títulos estaduais, nacionais e internacionais, como a Copa Libertadores. Sua torcida é apaixonada e dedicada.",
+            "logo":"./imagens/gremio.PNG"
+        },
+        {
+            "name": "Fluminense RJ",
+            "code": "FLU",
+            "country": "Rio de Janeiro",
+            "history":"O Fluminense Football Club, fundado em 1902, é um clube de futebol com sede no Rio de Janeiro, Brasil. Conhecido como Tricolor Carioca, o Fluminense possui uma história rica, com conquistas estaduais e nacionais, incluindo títulos do Campeonato Brasileiro. Sua torcida é fiel e apaixonada.",
+            "logo":"./imagens/fluminense.PNG"
+        },
+        {
+            "name": "Botafogo RJ",
+            "code": "BOT",
+            "country": "Rio de Janeiro",
+            "history":"O Botafogo de Futebol e Regatas, fundado em 1904, é um clube de futebol com sede no Rio de Janeiro, Brasil. Conhecido como Fogão, o Botafogo possui uma história de conquistas estaduais e nacionais, incluindo títulos do Campeonato Brasileiro. Sua torcida é leal e tem um carinho especial pelo clube.",
+            "logo":"./imagens/botafogo.PNG"
+        },
+        {
+            "name": "Corinthians SP",
+            "code": "COR",
+            "country": "São Paulo",
+            "history":"O Sport Club Corinthians Paulista, fundado em 1910, é um dos principais clubes de futebol do Brasil, sediado em São Paulo, São Paulo. Conhecido como Timão, o Corinthians tem uma história de sucesso, com muitos títulos estaduais e nacionais, incluindo a Copa Libertadores. Sua torcida é uma das mais apaixonadas do país.",
+            "logo":"./imagens/corinthians.PNG"
+        },
+        {
+            "name": "Goiás EC",
+            "code": "GOI",
+            "country": "Goiás",
+            "history":"O Goiás Esporte Clube, fundado em 1943, é um clube de futebol com sede em Goiânia, Goiás. Conhecido como Esmeraldino, o Goiás tem uma história de competições no cenário estadual e nacional, incluindo participações na Série A do Campeonato Brasileiro. Sua torcida é dedicada à equipe.",
+            "logo":"./imagens/goias.PNG"
+        },
+        {
+            "name": "EC Bahia",
+            "code": "BAI",
+            "country": "Bahia",
+            "history":"O Esporte Clube Bahia, fundado em 1931, é um clube de futebol com sede em Salvador, Bahia. Conhecido como Tricolor de Aço o Bahia possui uma história com conquistas estaduais e nacionais, incluindo títulos do Campeonato Brasileiro. Sua torcida é fervorosa e leal.",
+            "logo":"./imagens/bahia.PNG"
+        },
+        {
+            "name": "Atlético GO",
+            "code": "ACG",
+            "country": "Goiás",
+            "history":"O Atlético Clube Goianiense, fundado em 1937, é um clube de futebol com sede em Goiânia, Goiás. Conhecido como Dragão, o Atlético Goianiense tem competido em várias edições do Campeonato Brasileiro, conquistando uma base de fãs dedicada.",
+            "logo":"./imagens/atlgoianiense.PNG"
+        },
+        {
+            "name": "São Paulo FC",
+            "code": "SAO",
+            "country": "São Paulo",
+            "history":"O São Paulo Futebol Clube, fundado em 1930, é um dos clubes de futebol mais vitoriosos do Brasil, com sede em São Paulo, São Paulo. Conhecido como Tricolor Paulista, o São Paulo tem uma história rica, com inúmeras conquistas estaduais, nacionais e internacionais, incluindo a Copa Libertadores. Sua torcida é apaixonada e fiel.",
+            "logo":"./imagens/saopaulo.PNG"
+        }
+    ]
+}
